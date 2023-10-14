@@ -1,11 +1,15 @@
 # stage3
 
-## topics
+## topics of this stage
 
-### algorithms
-### data structure
-### distrobuted systems with node.js
+### algorithms & data structure
+### scaleability (distributed systems wiht node.js)
 ### observability engineering
-### advanced system design
-### advanced database design
+### advanced system design (gurav sen course https://interviewready.io/course-page/system-design-course )
 ### advanced microservics and event driven archtechture
+### advanced database design
+### deployment and CICD
+### AWS
+### containers
+### sequrity
+
