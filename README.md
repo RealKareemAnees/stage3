@@ -11,6 +11,7 @@
 ### sequrity
 ### oop
 ### networking
+### linux
 
 ## books and courses
 ### clean code course on yt, first episode :- (https://www.youtube.com/watch?v=e1vGHIUDm24&list=PLhiFu-f80eo8n7k5-PSI2z5Kq4NaPEzsP)
