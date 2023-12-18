@@ -14,8 +14,6 @@
 
 - **Database Design:** Learn effective database design through [YouTube tutorial](https://www.youtube.com/watch?v=ztHopE5Wnpc&t=9584s&pp=ygUWZGF0YWJhc2UgZGVzaWduIGNvdXJzZQ%3D%3D).
 
-- **JavaScript OOP:** Deepen understanding of JavaScript Object-Oriented Programming.
-
 - **JavaScript Design Patterns:** Explore and implement common design patterns in JavaScript.
 
 - **Algorithms and Data Structures:** Enhance problem-solving skills with the help of [YouTube tutorial series](https://www.youtube.com/watch?v=coqQwbDezUA&list=PLC3y8-rFHvwjPxNAKvZpdnsr41E0fCMMP).
