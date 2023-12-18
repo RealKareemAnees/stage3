@@ -38,4 +38,4 @@
 
 - **Network Understanding:** Explore the intricacies of networking to ensure a strong foundation for system development.
 
-- **Backend Playlists by Hussein Nasser:** Progress through beginner, intermediate, and advanced backend playlists by Hussein Nasser, gaining in-depth knowledge at each level.
+- **Backend Playlists by Hussein Nasser:** Progress through intermediate, and advanced backend playlists by Hussein Nasser, gaining in-depth knowledge at each level.
