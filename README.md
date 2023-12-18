@@ -24,7 +24,7 @@
 
 - **Distributed Systems with Node.js:** Delve into the world of distributed systems using Node.js by referring to relevant books and resources.
 
-- **Performance and Scalability:** Learn performance optimization and scalability techniques from Hussein Nasser's expertise.
+- **Performance and Scalability:** Learn performance optimization and scalability techniques.
 
 - **Deployment:** Master the art of deploying applications, ensuring a smooth and efficient release.
 
