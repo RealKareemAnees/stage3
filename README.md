@@ -10,7 +10,7 @@ Welcome to Stage 3 of your journey towards mastering full-stack web development!
 
 ## 3.0: Frontend
 
-- **Learn Svelte:** Start by mastering Svelte, a powerful frontend framework.
+- **Learn Solid:** Start by mastering Solid.js, a powerful frontend framework.
 
 ## 3.1: Perfection
 
