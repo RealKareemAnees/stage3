@@ -23,7 +23,7 @@ Enhance your skills with a focus on perfection:
 - **System Design:** Dive into system design using resources like [GeeksforGeeks](https://www.geeksforgeeks.org/system-design-tutorial/) and [this YouTube tutorial](https://www.youtube.com/watch?v=i53Gi_K3o7I&pp=ygUUc3lzdGVtIGRlc2lnbiBjb3Vyc2U%3D).
 
 - **Database Design:** Explore database design through [this comprehensive YouTube series](https://www.youtube.com/watch?v=ztHopE5Wnpc&t=9584s&pp=ygUWZGF0YWJhc2UgZGVzaWduIGNvdXJzZQ%3D%3D).
-  - **Backend Communications and Protocols:** Take a comprehensive course on Udemy [here](https://www.udemy.com/course/fundamentals-of-backend-communications-and-protocols/).
+- **Backend Communications and Protocols:** Take a comprehensive course on Udemy [here](https://www.udemy.com/course/fundamentals-of-backend-communications-and-protocols/).
   
 - **Algorithms and Data Structures:** Strengthen your foundation with [this YouTube series](https://www.youtube.com/watch?v=coqQwbDezUA&list=PLC3y8-rFHvwjPxNAKvZpdnsr41E0fCMMP).
 
