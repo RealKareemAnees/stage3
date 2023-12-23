@@ -73,6 +73,7 @@ Explore the project on [GitHub](https://github.com/RealKareemAnees/PALM-TREE).
 Expand your knowledge with additional resources:
 
 - [JavaScript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Bun Documentation](https://bun.sh/docs)
 - Basic AWS skills
 - **Programming Patterns:** [YouTube playlist](https://www.youtube.com/playlist?list=PLQnljOFTspQV1emqxKbcP5esAf4zpqWpe)
 - **Web Security:** [YouTube playlist](https://www.youtube.com/playlist?list=PLQnljOFTspQU3YDMRSMvzflh_qXoz9zfv)
