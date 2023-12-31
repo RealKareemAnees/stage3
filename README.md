@@ -10,7 +10,7 @@ Welcome to Stage 3 of your journey towards mastering full-stack web development!
 
 ## 3.0: Frontend
 
-- **Learn Solid:** Start by mastering Solid.js, a powerful frontend framework.
+- **Learn Svelte:** Start by mastering Svelte, a powerful frontend framework.
 
 ## 3.1: Perfection
 
@@ -20,7 +20,7 @@ Enhance your skills with a focus on perfection:
 
 - **JS Design Patterns:** Explore various JavaScript design patterns [here](https://www.freecodecamp.org/news/javascript-design-patterns-explained/).
 
-- **System Design:** Dive into system design using resources like [GeeksforGeeks](https://www.geeksforgeeks.org/system-design-tutorial/) and [this YouTube tutorial](https://www.youtube.com/watch?v=i53Gi_K3o7I&pp=ygUUc3lzdGVtIGRlc2lnbiBjb3Vyc2U%3D).
+- **System Design:** Dive into system design using resources like [GeeksforGeeks](https://www.geeksforgeeks.org/system-design-tutorial/) and [this YouTube tutorial](https://www.youtube.com/watch?v=i53Gi_K3o7I&pp=ygUUc3lzdGVtIGRlc2lnbiBjb3Vyc2U%3D). and O`REILLY  microservices arcitechure course (installed)
 
 - **Database Design:** Explore database design through [this comprehensive YouTube series](https://www.youtube.com/watch?v=ztHopE5Wnpc&t=9584s&pp=ygUWZGF0YWJhc2UgZGVzaWduIGNvdXJzZQ%3D%3D).
 - **Backend Communications and Protocols:** Take a comprehensive course on Udemy [here](https://www.udemy.com/course/fundamentals-of-backend-communications-and-protocols/).
@@ -31,7 +31,7 @@ Enhance your skills with a focus on perfection:
 
 - **Linux:** Acquire proficiency in Linux.
 
-- **Networking:** Enroll in [this Udemy course](https://www.udemy.com/course/fundamentals-of-networking-for-effective-backend-design/) to deepen your understanding of networking for effective backend design.
+- **Networking:** Enroll in [this Udemy course](https://www.udemy.com/course/fundamentals-of-networking-for-effective-backend-design/) to deepen your understanding of networking for effective backend design. or O`REILLY networking course and book (installed)
 
 ## 3.3: Secure (In Progress)
 
