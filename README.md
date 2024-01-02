@@ -10,13 +10,13 @@ Welcome to Stage 3 of your journey towards mastering full-stack web development!
 
 ## 3.0: Frontend
 
-- **Learn Svelte:** Start by mastering Svelte, a powerful frontend framework.
+- **Learn Svelte:** Start by mastering Svelte, a powerful frontend framework. DONE
 
 ## 3.1: Perfection
 
 Enhance your skills with a focus on perfection:
 
-- **JavaScript (JS) OOP:** Understand JavaScript OOP concepts with [this YouTube playlist](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i5yvDkJgt60vNVWffpblB7) and delve into classes [here](https://www.youtube.com/watch?v=2ZphE5HcQPQ&pp=ygUNanMgb29wIGNvdXJzZQ%3D%3D).
+- **JavaScript (JS) OOP:** Understand JavaScript OOP concepts with [this YouTube playlist](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i5yvDkJgt60vNVWffpblB7) and delve into classes [here](https://www.youtube.com/watch?v=2ZphE5HcQPQ&pp=ygUNanMgb29wIGNvdXJzZQ%3D%3D). DONE
 
 - **JS Design Patterns:** Explore various JavaScript design patterns [here](https://www.freecodecamp.org/news/javascript-design-patterns-explained/).
 
