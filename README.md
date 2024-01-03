@@ -1,6 +1,6 @@
 # Stage 3: Full Stack Web Development Mastery
 
-Welcome to Stage 3 of your journey towards mastering full-stack web development! This stage spans from January 1st to July 1st, with the primary goal of becoming proficient in building, securing, and maintaining scalable web applications. By the end of this stage, you should be well-equipped to handle the entire development process.
+Welcome to Stage 3 of your transformative journey towards mastering full-stack web development! This stage spans from January 1st to July 1st, with the primary goal of equipping you with the skills to build, secure, and maintain scalable web applications. By the end of this stage, you should be well-prepared to independently handle the entire development process.
 
 ## About:
 
@@ -10,30 +10,32 @@ Welcome to Stage 3 of your journey towards mastering full-stack web development!
 
 ## 3.0: Frontend
 
-- **Learn Svelte:** Start by mastering Svelte, a powerful frontend framework. DONE
+- **Learn Svelte:** Start your journey by mastering Svelte, a powerful frontend framework. **[DONE]**
 
 ## 3.1: Perfection
 
 Enhance your skills with a focus on perfection:
 
-- **JavaScript (JS) OOP:** Understand JavaScript OOP concepts with [this YouTube playlist](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i5yvDkJgt60vNVWffpblB7) and delve into classes [here](https://www.youtube.com/watch?v=2ZphE5HcQPQ&pp=ygUNanMgb29wIGNvdXJzZQ%3D%3D). DONE
+- **JavaScript (JS) OOP:** Understand JavaScript OOP concepts with [this YouTube playlist](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i5yvDkJgt60vNVWffpblB7) and delve into classes [here](https://www.youtube.com/watch?v=2ZphE5HcQPQ&pp=ygUNanMgb29wIGNvdXJzZQ%3D%3D). **[DONE]**
 
 - **JS Design Patterns:** Explore various JavaScript design patterns [here](https://www.freecodecamp.org/news/javascript-design-patterns-explained/).
 
-- **System Design:** Dive into system design using resources like
-- - [GeeksforGeeks](https://www.geeksforgeeks.org/system-design-tutorial/) and [this YouTube tutorial](https://www.youtube.com/watch?v=i53Gi_K3o7I&pp=ygUUc3lzdGVtIGRlc2lnbiBjb3Vyc2U%3D).
-- -  O`REILLY  microservices arcitechure course (installed)
+- **System Design:** Dive into system design using resources like:
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/system-design-tutorial/)
+  - [YouTube tutorial](https://www.youtube.com/watch?v=i53Gi_K3o7I&pp=ygUUc3lzdGVtIGRlc2lnbiBjb3Vyc2U%3D%3D).
+  - O`REILLY Design Microservices Architecture with Patterns and Principles course (downloaded)
+  - O`REILLY Agile Project and Product Management
 
 - **Database Design:** Explore database design through [this comprehensive YouTube series](https://www.youtube.com/watch?v=ztHopE5Wnpc&t=9584s&pp=ygUWZGF0YWJhc2UgZGVzaWduIGNvdXJzZQ%3D%3D).
 - **Backend Communications and Protocols:** Take a comprehensive course on Udemy [here](https://www.udemy.com/course/fundamentals-of-backend-communications-and-protocols/).
-  
 - **Algorithms and Data Structures:** Strengthen your foundation with [this YouTube series](https://www.youtube.com/watch?v=coqQwbDezUA&list=PLC3y8-rFHvwjPxNAKvZpdnsr41E0fCMMP).
 
 ## 3.2: Deep Dive into System
 
 - **Linux:** Acquire proficiency in Linux.
 
-- **Networking:** Enroll in [this Udemy course](https://www.udemy.com/course/fundamentals-of-networking-for-effective-backend-design/) to deepen your understanding of networking for effective backend design. or O`REILLY networking course and book (installed)
+- **Networking:** Enroll in [this Udemy course](https://www.udemy.com/course/fundamentals-of-networking-for-effective-backend-design/).
+  - O`REILLY networking course and book (installed)
 
 ## 3.3: Secure (In Progress)
 
@@ -58,7 +60,7 @@ Prioritize security considerations by exploring topics such as:
 
 - Familiarize yourself with CICD basics.
 
-- Gain proficiency in GitLab.
+- Gain proficiency in GitLab with Learning GitHub Actions for DevOps CICD course from Oreilly (downloaded)
 
 ## Stage Project: PALM TREE
 
@@ -76,7 +78,7 @@ Expand your knowledge with additional resources:
 
 - [JavaScript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Bun Documentation](https://bun.sh/docs)
-- Basic AWS skills
+- Basic AWS skills course Amazon Web Services (AWS), 3rd Edition from Oreilly (downloaded)
 - **Programming Patterns:** [YouTube playlist](https://www.youtube.com/playlist?list=PLQnljOFTspQV1emqxKbcP5esAf4zpqWpe)
 - **Web Security:** [YouTube playlist](https://www.youtube.com/playlist?list=PLQnljOFTspQU3YDMRSMvzflh_qXoz9zfv)
 - **Proxies:** [YouTube playlist](https://www.youtube.com/playlist?list=PLQnljOFTspQVMeBmWI2AhxULWEeo7AaMC)
