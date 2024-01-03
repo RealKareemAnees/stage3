@@ -18,7 +18,7 @@ Enhance your skills with a focus on perfection:
 
 - **JavaScript (JS) OOP:** Understand JavaScript OOP concepts with [this YouTube playlist](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i5yvDkJgt60vNVWffpblB7) and delve into classes [here](https://www.youtube.com/watch?v=2ZphE5HcQPQ&pp=ygUNanMgb29wIGNvdXJzZQ%3D%3D). **[DONE]**
 
-- **JS Design Patterns:** Explore various JavaScript design patterns [here](https://www.freecodecamp.org/news/javascript-design-patterns-explained/).
+- **JS Design Patterns:** Explore various JavaScript design patterns [here](https://www.freecodecamp.org/news/javascript-design-patterns-explained/). and [programing paradigms](https://www.freecodecamp.org/news/an-introduction-to-programming-paradigms/)
 
 - **System Design:** Dive into system design using resources like:
   - [GeeksforGeeks](https://www.geeksforgeeks.org/system-design-tutorial/)
