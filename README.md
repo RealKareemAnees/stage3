@@ -18,13 +18,14 @@ Enhance your skills with a focus on perfection:
 
 - **JavaScript (JS) OOP:** Understand JavaScript OOP concepts with [this YouTube playlist](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i5yvDkJgt60vNVWffpblB7) and delve into classes [here](https://www.youtube.com/watch?v=2ZphE5HcQPQ&pp=ygUNanMgb29wIGNvdXJzZQ%3D%3D). **[DONE]**
 
-- **JS Design Patterns:** Explore various JavaScript design patterns [here](https://www.freecodecamp.org/news/javascript-design-patterns-explained/). and [programing paradigms](https://www.freecodecamp.org/news/an-introduction-to-programming-paradigms/)
+- **JS Design Patterns:** Explore various JavaScript design patterns [here](https://www.freecodecamp.org/news/javascript-design-patterns-explained/). and [programing paradigms](https://www.freecodecamp.org/news/an-introduction-to-programming-paradigms/) **[DONE]**
 
 - **System Design:** Dive into system design using resources like:
   - [GeeksforGeeks](https://www.geeksforgeeks.org/system-design-tutorial/)
   - [YouTube tutorial](https://www.youtube.com/watch?v=i53Gi_K3o7I&pp=ygUUc3lzdGVtIGRlc2lnbiBjb3Vyc2U%3D%3D).
   - O`REILLY Design Microservices Architecture with Patterns and Principles course (downloaded)
   - O`REILLY Agile Project and Product Management
+  - O`REILLY An Agile Crash Course Agile Project Management and Agile Delivery
 
 - **Database Design:** Explore database design through [this comprehensive YouTube series](https://www.youtube.com/watch?v=ztHopE5Wnpc&t=9584s&pp=ygUWZGF0YWJhc2UgZGVzaWduIGNvdXJzZQ%3D%3D).
 - **Backend Communications and Protocols:** Take a comprehensive course on Udemy [here](https://www.udemy.com/course/fundamentals-of-backend-communications-and-protocols/).
