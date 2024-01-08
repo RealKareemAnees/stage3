@@ -37,6 +37,8 @@ Enhance your skills with a focus on perfection:
 
 - **Networking:** Enroll in [this Udemy course](https://www.udemy.com/course/fundamentals-of-networking-for-effective-backend-design/).
   - O`REILLY networking course and book (installed)
+  - [Computer Networking Course](https://www.youtube.com/watch?v=qiQR5rTSshw&t=76s&pp=ygUXbmV0d29ya2luZyBmdW5kYW1lbnRhbHM%3D)
+  - 
 
 ## 3.3: Secure (In Progress)
 
