@@ -81,6 +81,7 @@ Expand your knowledge with additional resources:
 
 - [JavaScript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [node Documentation](https://nodejs.org/docs/latest/api/fs.html)
+- [typescript docs](https://www.typescriptlang.org)
 - Basic AWS skills course Amazon Web Services (AWS), 3rd Edition from Oreilly (downloaded)
 - **Programming Patterns:** [YouTube playlist](https://www.youtube.com/playlist?list=PLQnljOFTspQV1emqxKbcP5esAf4zpqWpe)
 - **Web Security:** [YouTube playlist](https://www.youtube.com/playlist?list=PLQnljOFTspQU3YDMRSMvzflh_qXoz9zfv)
