@@ -31,6 +31,8 @@ Enhance your skills with a focus on perfection:
 - **Backend Communications and Protocols:** Take a comprehensive course on Udemy [here](https://www.udemy.com/course/fundamentals-of-backend-communications-and-protocols/).
 - **Algorithms and Data Structures:** Strengthen your foundation with [this YouTube series](https://www.youtube.com/watch?v=coqQwbDezUA&list=PLC3y8-rFHvwjPxNAKvZpdnsr41E0fCMMP).
 
+- **JIRA**
+
 ## 3.2: Deep Dive into System
 
 - **Linux:** Acquire proficiency in Linux.
