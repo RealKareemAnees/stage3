@@ -28,7 +28,7 @@ Enhance your skills with a focus on perfection:
   - O`REILLY An Agile Crash Course Agile Project Management and Agile Delivery **[DONE]**
 
 - **Database Design:** Explore database design through [this comprehensive YouTube series](https://www.youtube.com/watch?v=ztHopE5Wnpc&t=9584s&pp=ygUWZGF0YWJhc2UgZGVzaWduIGNvdXJzZQ%3D%3D).
-- **Backend Communications and Protocols:** Take a comprehensive course on Udemy [here](https://www.udemy.com/course/fundamentals-of-backend-communications-and-protocols/).
+- **Backend Communications and Protocols:** Take a comprehensive course on Udemy [here](https://www.udemy.com/course/fundamentals-of-backend-communications-and-protocols/). **[DONE]**
 - **Algorithms and Data Structures:** Strengthen your foundation with [this YouTube series](https://www.youtube.com/watch?v=coqQwbDezUA&list=PLC3y8-rFHvwjPxNAKvZpdnsr41E0fCMMP).
 
 - **JIRA**
@@ -79,8 +79,8 @@ Explore the project on [GitHub](https://github.com/RealKareemAnees/PALM-TREE).
 Expand your knowledge with additional resources:
 
 - [JavaScript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [node Documentation](https://nodejs.org/docs/latest/api/fs.html)
-- [typescript docs](https://www.typescriptlang.org)
+- [node Documentation](https://nodejs.org/docs/latest/api/fs.html) **[DONE]**
+- [typescript docs](https://www.typescriptlang.org) 
 - Basic AWS skills course Amazon Web Services (AWS), 3rd Edition from Oreilly (downloaded)
 - **Programming Patterns:** [YouTube playlist](https://www.youtube.com/playlist?list=PLQnljOFTspQV1emqxKbcP5esAf4zpqWpe)
 - **Web Security:** [YouTube playlist](https://www.youtube.com/playlist?list=PLQnljOFTspQU3YDMRSMvzflh_qXoz9zfv)
