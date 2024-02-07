@@ -67,6 +67,8 @@ Prioritize security considerations by exploring topics such as:
 - Tools:
   - Kubernetes
   - Docker
+  - redis
+  - memcached
 
 ## 3.5: Protocols
 
