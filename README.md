@@ -1,4 +1,4 @@
-# Stage 3: Full Stack Web Development Mastery
+## Stage 3: Full Stack Web Development Mastery
 
 Welcome to Stage 3 of your transformative journey towards mastering full-stack web development! This stage spans from January 1st to July 1st, with the primary goal of equipping you with the skills to build, secure, and maintain scalable web applications. By the end of this stage, you should be well-prepared to independently handle the entire development process.
 
@@ -18,27 +18,13 @@ Enhance your skills with a focus on perfection:
 
 - **JavaScript (JS) OOP:** Understand JavaScript OOP concepts with [this YouTube playlist](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i5yvDkJgt60vNVWffpblB7) and delve into classes [here](https://www.youtube.com/watch?v=2ZphE5HcQPQ&pp=ygUNanMgb29wIGNvdXJzZQ%3D%3D). **[DONE]**
 
-- **JS Design Patterns:** Explore various JavaScript design patterns [here](https://www.freecodecamp.org/news/javascript-design-patterns-explained/). and [programing paradigms](https://www.freecodecamp.org/news/an-introduction-to-programming-paradigms/) **[DONE]**
-
-- **System Design:** Dive into system design using resources like:
-  - [GeeksforGeeks](https://www.geeksforgeeks.org/system-design-tutorial/) **[DONE]**
-  - [YouTube tutorial](https://www.youtube.com/watch?v=i53Gi_K3o7I&pp=ygUUc3lzdGVtIGRlc2lnbiBjb3Vyc2U%3D%3D). **[DONE]**
-  - O`REILLY Design Microservices Architecture with Patterns and Principles course (downloaded) 
-  - O`REILLY Agile Project and Product Management **[DONE]**
-  - O`REILLY An Agile Crash Course Agile Project Management and Agile Delivery **[DONE]**
-
-- **Database Design:** Explore database design through [this comprehensive YouTube series](https://www.youtube.com/watch?v=ztHopE5Wnpc&t=9584s&pp=ygUWZGF0YWJhc2UgZGVzaWduIGNvdXJzZQ%3D%3D).
-- **Backend Communications and Protocols:** Take a comprehensive course on Udemy [here](https://www.udemy.com/course/fundamentals-of-backend-communications-and-protocols/). **[DONE]**
-- **Algorithms and Data Structures:** Strengthen your foundation with [this YouTube series](https://www.youtube.com/watch?v=coqQwbDezUA&list=PLC3y8-rFHvwjPxNAKvZpdnsr41E0fCMMP).
-
-- **JIRA**
+- **JS Design Patterns:** Explore various JavaScript design patterns [here](https://www.freecodecamp.org/news/javascript-design-patterns-explained/) and [programming paradigms](https://www.freecodecamp.org/news/an-introduction-to-programming-paradigms/). **[DONE]**
 
 ## 3.2: Deep Dive into System
 
 - **Linux:** Acquire proficiency in Linux.
-
 - **Networking:** Enroll in [this Udemy course](https://www.udemy.com/course/fundamentals-of-networking-for-effective-backend-design/). **[DONE]**
-- 
+
 ## 3.3: Secure (In Progress)
 
 Prioritize security considerations by exploring topics such as:
@@ -53,16 +39,38 @@ Prioritize security considerations by exploring topics such as:
 - HTTP headers (Hemet, CSP, IENOOPEN, Frameguard, Hide Powered By, HSTS, NoCache, XSS Filter, NoSniff, Clickjacking Protection)
 - Cookie security and cookie flags
 - Evaluate regular expressions for security
+- Books:
+  - "Web Application Security"
+  - "API Security in Action"
 
 ## 3.4: Scale and Develop
 
+- **Frameworks:**
+  - Nest.js
+  - Fastify
+- **Libraries:**
+  - Multer
+  - Socket.io
+  - Sequelize
+  - Mongoose
+  - Axios
+  - React and Redux
+  - Next.js
+  - Angular
+  - Passport.js
 - Dive into distributed systems with Node.js by referencing the book [Distributed Systems with Node.js](https://www.oreilly.com/library/view/distributed-systems-with/9781492077282/).
-
 - Learn Nginx through [this Udemy course](https://www.udemy.com/course/nginx-crash-course/).
-
 - Familiarize yourself with CICD basics.
-
 - Gain proficiency in GitLab with Learning GitHub Actions for DevOps CICD course from Oreilly (downloaded)
+- Books:
+  - "Fundamentals of API Architecture"
+- Tools:
+  - Kubernetes
+  - Docker
+
+## 3.5: Protocols
+
+- Explore various protocols such as gRPC, GraphQL, and WebSockets for efficient communication between different parts of your application.
 
 ## Stage Project: PALM TREE
 
@@ -79,14 +87,14 @@ Explore the project on [GitHub](https://github.com/RealKareemAnees/PALM-TREE).
 Expand your knowledge with additional resources:
 
 - [JavaScript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [node Documentation](https://nodejs.org/docs/latest/api/fs.html) **[DONE]**
-- [typescript docs](https://www.typescriptlang.org) 
-- Basic AWS skills course Amazon Web Services (AWS), 3rd Edition from Oreilly (downloaded)
+- [Node.js Documentation](https://nodejs.org/docs/latest/api/fs.html) **[DONE]**
+- [TypeScript Documentation](https://www.typescriptlang.org)
+- Basic AWS skills course Amazon Web Services (AWS), 3rd Edition from O'Reilly (downloaded)
 - **Programming Patterns:** [YouTube playlist](https://www.youtube.com/playlist?list=PLQnljOFTspQV1emqxKbcP5esAf4zpqWpe)
 - **Web Security:** [YouTube playlist](https://www.youtube.com/playlist?list=PLQnljOFTspQU3YDMRSMvzflh_qXoz9zfv)
 - **Proxies:** [YouTube playlist](https://www.youtube.com/playlist?list=PLQnljOFTspQVMeBmWI2AhxULWEeo7AaMC)
 - **Backend Engineering (Beginner):** [YouTube playlist](https://www.youtube.com/playlist?list=PLQnljOFTspQUNnO4p00ua_C5mKTfldiYT)
 - **Backend Engineering (Intermediate):** [YouTube playlist](https://www.youtube.com/playlist?list=PLQnljOFTspQWGuRmwojJ6LiV0ejm6eOcs)
-- **Backend Engineering (Advanced):** [YouTube playlist](https://www.youtube.com/playlist?list=PLQnljOFTspQUybacGRk1b_p13dgI-SmcZ)
+- **Backend Engineering (Advanced):** [YouTube playlist](https://www.youtube.com/
 
-Happy coding and learning! If you have any questions or need assistance, feel free to reach out. 🚀
+playlist?list=PLQnljOFTspQUybacGRk1b_p13dgI-SmcZ)
