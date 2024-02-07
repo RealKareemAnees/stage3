@@ -4,7 +4,7 @@ Welcome to Stage 3 of your transformative journey towards mastering full-stack w
 
 ## About:
 
-- **Duration:** January 1 to July 1
+- **Duration:** Jan 1 to Aug 1
 - **Target:** Master full-stack web development and deliver secure, well-maintained, and scalable web apps ready for deployment.
 - **Outcome:** Upon completion, you should be capable of independently building and maintaining full-stack web applications.
 
@@ -47,17 +47,20 @@ Prioritize security considerations by exploring topics such as:
 
 - **Frameworks:**
   - Nest.js
+  - React and Redux
+  - Next.js
+  - Angular
   - Fastify
+  - electron.js
 - **Libraries:**
   - Multer
   - Socket.io
   - Sequelize
   - Mongoose
   - Axios
-  - React and Redux
-  - Next.js
-  - Angular
   - Passport.js
+  - stripe
+  - strapi
 - Dive into distributed systems with Node.js by referencing the book [Distributed Systems with Node.js](https://www.oreilly.com/library/view/distributed-systems-with/9781492077282/).
 - Learn Nginx through [this Udemy course](https://www.udemy.com/course/nginx-crash-course/).
 - Familiarize yourself with CICD basics.
@@ -67,13 +70,27 @@ Prioritize security considerations by exploring topics such as:
 - Tools:
   - Kubernetes
   - Docker
+  - Jenkins
   - redis
   - memcached
-
+  - rabbitMQ
+  - apache kafka
+  - webRTC
+  - postgresql
+  - elasticsearch
+  - solr
+- SEO
 ## 3.5: Protocols
 
 - Explore various protocols such as gRPC, GraphQL, and WebSockets for efficient communication between different parts of your application.
 
+## 3.6: stronger skills
+- learn java with learning java or head first java
+- Clean Code: A Handbook of Agile Software Craftsmanship
+- Head First Design Patterns, 2nd Edition
+- spring boot
+- OOP
+- DSA (or later with c++)
 ## Stage Project: PALM TREE
 
 Embark on a comprehensive project, PALM TREE, featuring:
@@ -91,7 +108,7 @@ Expand your knowledge with additional resources:
 - [JavaScript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Node.js Documentation](https://nodejs.org/docs/latest/api/fs.html) **[DONE]**
 - [TypeScript Documentation](https://www.typescriptlang.org)
-- Basic AWS skills course Amazon Web Services (AWS), 3rd Edition from O'Reilly (downloaded)
+- Basic AWS skills course Amazon Web Services (AWS), and microsoft Azure
 - **Programming Patterns:** [YouTube playlist](https://www.youtube.com/playlist?list=PLQnljOFTspQV1emqxKbcP5esAf4zpqWpe)
 - **Web Security:** [YouTube playlist](https://www.youtube.com/playlist?list=PLQnljOFTspQU3YDMRSMvzflh_qXoz9zfv)
 - **Proxies:** [YouTube playlist](https://www.youtube.com/playlist?list=PLQnljOFTspQVMeBmWI2AhxULWEeo7AaMC)
