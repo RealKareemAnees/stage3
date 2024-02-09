@@ -22,7 +22,8 @@ Enhance your skills with a focus on perfection:
 
 ## 3.2: Deep Dive into System
 
-- **Linux:** Acquire proficiency in Linux.
+- **Linux:** Acquire proficiency in Linux
+- Ubuntu server
 - **Networking:** Enroll in [this Udemy course](https://www.udemy.com/course/fundamentals-of-networking-for-effective-backend-design/). **[DONE]**
 
 ## 3.3: Secure (In Progress)
@@ -80,9 +81,11 @@ Prioritize security considerations by exploring topics such as:
   - elasticsearch
   - solr
 - SEO
-## 3.5: Protocols
-
-- Explore various protocols such as gRPC, GraphQL, and WebSockets for efficient communication between different parts of your application.
+## 3.5: protocols
+- gRPC
+- GraphQL
+- WebSockets
+- SOAP
 
 ## 3.6: stronger skills
 - learn java with learning java or head first java
@@ -90,7 +93,13 @@ Prioritize security considerations by exploring topics such as:
 - Head First Design Patterns, 2nd Edition
 - spring boot
 - OOP
-- DSA (or later with c++)
+- DSA
+
+## 6.7: non arch neither code
+- Microsoft Office
+- flowchart apps
+- figma
+
 ## Stage Project: PALM TREE
 
 Embark on a comprehensive project, PALM TREE, featuring:
