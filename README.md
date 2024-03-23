@@ -21,6 +21,7 @@
 - **Database engineering fundamentals** by [Hussein Nasser](https://www.udemy.com/course/database-engines-crash-course/)
 - **Backend Performance** [Same guy](https://www.udemy.com/course/discovering-backend-bottlenecks-unlocking-peak-performance/)
 - **Nginx** Learn Nginx through [this Udemy course](https://www.udemy.com/course/nginx-crash-course/).
+- **TLS** [O`Reilly](https://learning.oreilly.com/course/ssl-complete-guide/9781839211508/)
 
 ## 3.2: Scale and Develop
 
