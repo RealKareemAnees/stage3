@@ -9,19 +9,20 @@
 ## 3.0: Frontend
 
 - **Learn Svelte:** **[DONE]**
+  - SvelteKit 
 - **Learn React**
   - basics **[DONE]**
   - Next.JS
 
 ## 3.1: Deep Dive
 
-- **Linux Basics:** No resources yet
+- **Linux Basics:** [Linux Fundamentals, 2nd Edition](https://learning.oreilly.com/videos/-/9780137929313/)
 - **Networking fundamentals:** Enroll in [this Udemy course](https://www.udemy.com/course/fundamentals-of-networking-for-effective-backend-design/). **[DONE]**
 - **Backend communication and protocols** A course on udemy by Hussein Nasser [in](https://www.udemy.com/course/fundamentals-of-backend-communications-and-protocols/) **[DONE]**
-- **Database engineering fundamentals** by [Hussein Nasser](https://www.udemy.com/course/database-engines-crash-course/)
-- **Backend Performance** [Same guy](https://www.udemy.com/course/discovering-backend-bottlenecks-unlocking-peak-performance/)
-- **Nginx** Learn Nginx through [this Udemy course](https://www.udemy.com/course/nginx-crash-course/).
-- **TLS** [O`Reilly](https://learning.oreilly.com/course/ssl-complete-guide/9781839211508/)
+- **Database engineering fundamentals** by Hussein Nasser [Fundamentals of Database Engineering](https://www.udemy.com/course/database-engines-crash-course/)
+- **Backend Performance** By Hussein Nasser [Discovering Backend Bottlenecks: Unlocking Peak Performance](https://www.udemy.com/course/discovering-backend-bottlenecks-unlocking-peak-performance/)
+- **Nginx** By Hussein Nasser [Introduction to Nginx](https://www.udemy.com/course/nginx-crash-course/).
+- **TLS** [SSL Complete Guide 2021: HTTP to HTTPS](https://learning.oreilly.com/course/ssl-complete-guide/9781839211508/)
 
 ## 3.2: Scale and Develop
 
@@ -87,7 +88,7 @@
 
 ## 3.7: Obseravility, other skills
 
-- AWS
+- AWS [here](https://learning.oreilly.com/videos/-/9780137928521/)
 - ELK stack
 - Testing with Types
 - AI basics
@@ -95,9 +96,31 @@
 ## 3.8: non arch neither code
 
 - flowchart and representation apps
+- UML
 - figma
 - soft and communication skills
 
+## 3.9: explore new world (Pick Only One)
+
+- **LARAVEL**
+  - PHP
+  - Laravel
+- **Spring**
+  - JAVA
+  - Spring boot
+- **.NET**
+  - C#
+  - .Net
+
+## bonous
+
+- machine learning basics
+- Data science basics
+- Networking course
+- OS
+- system security
+- ethical hacking basics
+  
 ## Stage Project: PALM TREE
 
 Explore the project on [GitHub](https://github.com/RealKareemAnees/PALM-TREE).
@@ -108,8 +131,6 @@ Expand your knowledge with additional resources:
 
 - [JavaScript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Node.js Documentation](https://nodejs.org/docs/latest/api/fs.html) **[DONE]**
-- [TypeScript Documentation](https://www.typescriptlang.org)
-- Basic AWS skills course Amazon Web Services (AWS), and microsoft Azure
 - **Programming Patterns:** [YouTube playlist](https://www.youtube.com/playlist?list=PLQnljOFTspQV1emqxKbcP5esAf4zpqWpe)
 - **Web Security:** [YouTube playlist](https://www.youtube.com/playlist?list=PLQnljOFTspQU3YDMRSMvzflh_qXoz9zfv)
 - **Proxies:** [YouTube playlist](https://www.youtube.com/playlist?list=PLQnljOFTspQVMeBmWI2AhxULWEeo7AaMC)
