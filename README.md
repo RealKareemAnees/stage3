@@ -88,9 +88,9 @@
    - Kibana
      
 - **Testing**
-  - Unit tests
-  - Integration tests
-
+  - Unit and Integration tests and more [Unit Testing for Typescript & NodeJs Developers with Jest
+](https://www.udemy.com/course/unit-testing-typescript-nodejs/?couponCode=LETSLEARNNOW)
+    
 ## 3.8: non arch neither code
 
 - UML
