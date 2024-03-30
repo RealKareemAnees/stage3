@@ -49,7 +49,7 @@
 ## 3.5 Books:
 
 - Designing data intensive applications
-- Fundamentals of API Architecture
+- Mastering API Architecture
 - Web application security **[DONE]**
 - Node.JS design patterns **[DONE]**
 - fundamentals of API architecture
