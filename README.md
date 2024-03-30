@@ -15,10 +15,15 @@
 - **Linux Basics:** [Linux Fundamentals, 2nd Edition](https://learning.oreilly.com/videos/-/9780137929313/)
 - **Networking fundamentals:** Enroll in [this Udemy course](https://www.udemy.com/course/fundamentals-of-networking-for-effective-backend-design/). **[DONE]**
 - **Backend communication and protocols** A course on udemy by Hussein Nasser [in](https://www.udemy.com/course/fundamentals-of-backend-communications-and-protocols/) **[DONE]**
-- **Database engineering fundamentals** by Hussein Nasser [Fundamentals of Database Engineering](https://www.udemy.com/course/database-engines-crash-course/)
 - **Backend Performance** By Hussein Nasser [Discovering Backend Bottlenecks: Unlocking Peak Performance](https://www.udemy.com/course/discovering-backend-bottlenecks-unlocking-peak-performance/)
 - **Nginx** By Hussein Nasser [Introduction to Nginx](https://www.udemy.com/course/nginx-crash-course/).
 - **TLS** [SSL Complete Guide 2021: HTTP to HTTPS](https://learning.oreilly.com/course/ssl-complete-guide/9781839211508/)
+
+## 3.2.1 Database engineering
+  - **by Hussein Nasser** [Fundamentals of Database Engineering](https://www.udemy.com/course/database-engines-crash-course/)
+  - **by Carnegie Mellon University**
+     - [Introduction](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbj8BMuIrRcacnQh20hmY9g)
+     - [Advanced](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYa_zX-KeMJui7pcN1rIaIJ)
 
 ## 3.2: Scale and Develop
 
@@ -38,7 +43,7 @@
 
 ## 3.4: stronger skills
 
-- **Pick a lang**: C++ or Java or Go or Python
+- **Pick a lang**: C++ or Java or Go or rust or Python
 - **DSA** using any online curriculum
 
 ## 3.5 Books:
@@ -90,6 +95,7 @@
 
 - UML
 - soft and communication skills
+- Jira
 
 ## bonous
 
