@@ -41,7 +41,7 @@
 - GraphQL
 - WebSockets
 
-## 3.4: stronger skills
+## 3.4: Foundations
 
 - **Pick a lang**: C++ or Java or Go or rust or Python
 - **DSA** using any online curriculum
@@ -90,6 +90,8 @@
 - **Testing**
   - Unit and Integration tests and more [Unit Testing for Typescript & NodeJs Developers with Jest
 ](https://www.udemy.com/course/unit-testing-typescript-nodejs/?couponCode=LETSLEARNNOW)
+
+- **Security practices** with [OWASP NODEJS CHEAT SHEET](https://cheatsheetseries.owasp.org/cheatsheets/Nodejs_Security_Cheat_Sheet.html)
     
 ## 3.8: non arch neither code
 
