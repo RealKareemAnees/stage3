@@ -69,8 +69,7 @@
   - Nest.js **[DONE]**
   - Kubernetes
   - Docker **[DONE]**
-  - redis
-  - rabbitMQ
+  - ZeroMQ
   - Mongoose **[DONE]**
   - prisma
   - webRTC
@@ -89,7 +88,7 @@
      
 - **Testing**
   - Unit and Integration tests and more [Unit Testing for Typescript & NodeJs Developers with Jest
-](https://www.udemy.com/course/unit-testing-typescript-nodejs/?couponCode=LETSLEARNNOW)
+](https://www.udemy.com/course/unit-testing-typescript-nodejs/?couponCode=LETSLEARNNOW) **[DONE]**
 
 - **Security practices** with [OWASP NODEJS CHEAT SHEET](https://cheatsheetseries.owasp.org/cheatsheets/Nodejs_Security_Cheat_Sheet.html)
     
