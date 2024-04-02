@@ -82,9 +82,9 @@
 - AWS [here](https://learning.oreilly.com/videos/-/9780137928521/)
   
 - **ELK stack**
-   - Logstash
-   - Elastic search
-   - Kibana
+   - Logstash [On Udemy](https://www.udemy.com/course/processing-events-with-logstash/)
+   - Elastic search [On Udemy](https://www.udemy.com/course/elasticsearch-complete-guide/)
+   - Kibana [On Udemy](https://www.udemy.com/course/data-visualization-with-kibana/)
      
 - **Testing**
   - Unit and Integration tests and more [Unit Testing for Typescript & NodeJs Developers with Jest
