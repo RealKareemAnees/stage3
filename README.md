@@ -51,7 +51,7 @@
 - Mastering API Architecture
 - Web application security **[DONE]**
 - Node.JS design patterns **[DONE]**
-- fundamentals of API architecture
+- fundamentals of Software architecture
 - Distriputed systems with node.js **[DONE]**
 - Javascript the definitive guide **[DONE]**
 - Clean code
