@@ -94,7 +94,7 @@
     
 ## 3.8: non arch neither code
 
-- UML
+- UML [with this guy](https://www.udemy.com/course/uml-and-object-oriented-design-foundations/?couponCode=ST13MT40224)
 - soft and communication skills
 - Jira
 
