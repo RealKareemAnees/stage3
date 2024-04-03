@@ -8,7 +8,6 @@
 
 - **Learn Svelte:** **[DONE]**
   - SvelteKit
-  - tailwind
 
 ## 3.1: Deep Dive
 
@@ -69,7 +68,7 @@
   - Nest.js **[DONE]**
   - Kubernetes
   - Docker **[DONE]**
-  - ZeroMQ
+  - RabbitMQ **[DONE]**
   - Mongoose **[DONE]**
   - prisma
   - webRTC
@@ -90,7 +89,7 @@
   - Unit and Integration tests and more [Unit Testing for Typescript & NodeJs Developers with Jest
 ](https://www.udemy.com/course/unit-testing-typescript-nodejs/?couponCode=LETSLEARNNOW) **[DONE]**
 
-- **Security practices** with [OWASP NODEJS CHEAT SHEET](https://cheatsheetseries.owasp.org/cheatsheets/Nodejs_Security_Cheat_Sheet.html)
+- **Security practices** with [OWASP NODEJS CHEAT SHEET](https://cheatsheetseries.owasp.org/cheatsheets/Nodejs_Security_Cheat_Sheet.html) **[DONE]**
     
 ## 3.8: non arch neither code
 
