@@ -8,6 +8,7 @@
 
 - **Learn Svelte:** **[DONE]**
   - SvelteKit
+  - extentions
 
 ## 3.1: Deep Dive
 
