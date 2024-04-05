@@ -55,12 +55,13 @@
 - fundamentals of Software architecture
 - Distriputed systems with node.js **[DONE]**
 - Javascript the definitive guide **[DONE]**
-- Clean code
-- Head First Design Patterns, 2nd Edition
 - gRPC up and running
 - API Security in Action
 - the programmatic programmer
 - software engineering at google
+- multithreaded javascript
+- Clean Code in JavaScript
+- micro frontends in action
 
 ## 3.6: libs, tools
 
