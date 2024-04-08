@@ -36,7 +36,9 @@
 
 ## 3.3: protocols
 
-- ReST
+- **ReST**
+  - HTTP guide [MDN docs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+  - Node.js HTTP guide [Official docs](https://nodejs.org/api/http2.html) 
 - gRPC **[DONE]**
 - GraphQL
 - WebSockets
