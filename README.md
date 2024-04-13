@@ -63,6 +63,7 @@
 - software engineering at google
 - multithreaded javascript
 - Clean Code in JavaScript
+- JavaScript Cookbook, 3rd Edition
 - micro frontends in action
 
 ## 3.6: libs, tools
