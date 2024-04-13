@@ -83,6 +83,8 @@
 
 ## 3.7: Obseravility, other skills
 
+- Advanced JS, OOP, Other [here](https://learning.oreilly.com/course/advanced-javascript-topics/9781839219054/)
+
 - AWS [here](https://learning.oreilly.com/videos/-/9780137928521/)
   
 - **ELK stack**
