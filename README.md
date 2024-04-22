@@ -106,15 +106,13 @@
 - soft and communication skills
 - Jira
 
-## bonous
+## 3.9: additional skills
+
+- **Web3**
+  - blockchain
+  - dapps
+  - solidity
 
 - AI basics
-- machine learning basics
-- Data science basics
-- Networking course
-- OS
-- computer architecture
-- system security
-- ethical hacking basics
-  
+-   
 ## Stage Project: not set yet
