@@ -43,7 +43,7 @@
   - Node.js HTTP guide [Official docs](https://nodejs.org/api/http2.html) 
 - gRPC **[DONE]**
 - GraphQL
-- WebSockets
+- WebSockets **[DONE]**
 
 ## 3.4: Foundations
 
