@@ -6,9 +6,11 @@
 
 ## 3.0: Frontend
 
-- **Learn Svelte:** **[DONE]**
-  - SvelteKit
-  - extentions
+- **React**
+  - react
+  - redux
+  - next
+  - browser extentions
 
 ## 3.1: Deep Dive
 
@@ -17,7 +19,7 @@
 - **Backend communication and protocols** A course on udemy by Hussein Nasser [in](https://www.udemy.com/course/fundamentals-of-backend-communications-and-protocols/) **[DONE]**
 - **Backend Performance** By Hussein Nasser [Discovering Backend Bottlenecks: Unlocking Peak Performance](https://www.udemy.com/course/discovering-backend-bottlenecks-unlocking-peak-performance/)
 - **Nginx** By Hussein Nasser [Introduction to Nginx](https://www.udemy.com/course/nginx-crash-course/).
-- **TLS** [SSL Complete Guide 2021: HTTP to HTTPS](https://learning.oreilly.com/course/ssl-complete-guide/9781839211508/)
+- **TLS** [SSL Complete Guide 2021: HTTP to HTTPS](https://learning.oreilly.com/course/ssl-complete-guide/9781839211508/) **[DONE]**
 
 ## 3.2.1 Database engineering
   - **by Hussein Nasser** [Fundamentals of Database Engineering](https://www.udemy.com/course/database-engines-crash-course/)
@@ -59,7 +61,7 @@
 - Javascript the definitive guide **[DONE]**
 - gRPC up and running
 - API Security in Action
-- the programmatic programmer
+- the pragmatic programmer
 - software engineering at google
 - multithreaded javascript
 - Clean Code in JavaScript
@@ -77,13 +79,14 @@
   - Mongoose **[DONE]**
   - prisma
   - webRTC
+  - nginx **[DONE]**
   - swagger **[DONE]**
   - electron.js
   - Passport.js
 
 ## 3.7: Obseravility, other skills
 
-- Advanced JS, OOP, Other [here](https://learning.oreilly.com/course/advanced-javascript-topics/9781839219054/)
+- Advanced JS, OOP, Other [here](https://learning.oreilly.com/course/advanced-javascript-topics/9781839219054/) **[DONE]**
 
 - AWS [here](https://learning.oreilly.com/videos/-/9780137928521/)
   
@@ -93,14 +96,13 @@
    - Kibana [On Udemy](https://www.udemy.com/course/data-visualization-with-kibana/)
      
 - **Testing**
-  - Unit and Integration tests and more [Unit Testing for Typescript & NodeJs Developers with Jest
-](https://www.udemy.com/course/unit-testing-typescript-nodejs/?couponCode=LETSLEARNNOW) **[DONE]**
+  - Unit and Integration tests and more **[DONE]**
 
 - **Security practices** with [OWASP NODEJS CHEAT SHEET](https://cheatsheetseries.owasp.org/cheatsheets/Nodejs_Security_Cheat_Sheet.html) **[DONE]**
     
 ## 3.8: non arch neither code
 
-- UML [with this guy](https://www.udemy.com/course/uml-and-object-oriented-design-foundations/?couponCode=ST13MT40224)
+- UML [with this guy](https://www.udemy.com/course/uml-and-object-oriented-design-foundations/?couponCode=ST13MT40224) **[DONE]**
 - soft and communication skills
 - Jira
 
@@ -115,6 +117,4 @@
 - system security
 - ethical hacking basics
   
-## Stage Project: PALM TREE
-
-Explore the project on [GitHub](https://github.com/RealKareemAnees/PALM-TREE).
+## Stage Project: not set yet
