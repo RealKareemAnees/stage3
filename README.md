@@ -89,6 +89,7 @@
 - Advanced JS, OOP, Other [here](https://learning.oreilly.com/course/advanced-javascript-topics/9781839219054/) **[DONE]**
 
 - AWS [here](https://learning.oreilly.com/videos/-/9780137928521/)
+- firebase
   
 - **ELK stack**
    - Logstash [On Udemy](https://www.udemy.com/course/processing-events-with-logstash/)
